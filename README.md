@@ -16,10 +16,8 @@ https://developers.facebook.com
 
 - Install Python 
 
-**Installing**
+## Development Environment: 
 Steps to get the development environment running.
-
-Download this project.
 
 - pip3 install Flask==0.12.2
 - pip3 install pymessenger==0.0.7.0
