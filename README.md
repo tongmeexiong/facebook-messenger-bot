@@ -29,7 +29,7 @@ https://gist.github.com/jwebcat/ecaac7bc7ee26e01cd4a
 
 ## Required: 
 - Get Access Token from Facebook For developers
-- Generate Verification Token
+- Self generate Verification Token
 - Create .env for security.
  Tutorial I found helpful for python .env:
  https://www.youtube.com/watch?v=QtACou6PsWI
