@@ -1,0 +1,12 @@
+# Mac Auto-Generated Files
+.DS_Store
+.DS_STORE/
+
+# Logs
+logs
+*.log
+
+# dotenv environment variables file
+.env
+
+.vscode/
